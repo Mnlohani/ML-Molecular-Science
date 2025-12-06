@@ -5,8 +5,7 @@ This repo is related to the works/ assignments/ projects in machine learning & d
 First, we will implement the general concepts such as linear, non-linear regression, and classifiction  in context of specific problems. Then we will develop neural network potentials for Lennard-Jones clusters. After that, we will develop a neural network (NN) for the classi cation of local structural environments in bulk phases
 
 
-
-- **Regression**:
+**1. Regression**:
     - Linear regression
         - Diabetes Dataset evaluation  
    
@@ -16,13 +15,13 @@ First, we will implement the general concepts such as linear, non-linear regress
             - Support vector machine + Gaussian kernel
             - Neural network  
         
-- **Classification**:
+**2. Classification**:
     - Non-linear classification 
         - Solving problem in 2D space
             - Neural network
             - Effects of regularisation
         
-- **Project: Neural network potentials for Lennard-Jones clusters**: We develop a neural network (NN) potential for small Lennard-Jones (LJ) clusters. There will be three steps that will be worked on :
+**3. Project: Neural network potentials for Lennard-Jones clusters**: We develop a neural network (NN) potential for small Lennard-Jones (LJ) clusters. There will be three steps that will be worked on :
     - setting up the LJ clusters and creating several datasets
         - Initial cluster setup
         - Optimising cluster setup
