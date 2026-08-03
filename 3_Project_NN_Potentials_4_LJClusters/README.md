@@ -1,4 +1,6 @@
-Project: Neural network potentials for Lennard-Jones clusters: We develop a neural network (NN) potential for small Lennard-Jones (LJ) clusters. There will be three steps that will be worked on :
+# Project: Neural network potentials for Lennard-Jones clusters
+
+We develop a neural network (NN) potential for small Lennard-Jones (LJ) clusters. There will be three steps that will be worked on :
 
 - Setting up the LJ clusters and creating several datasets
     - Initial cluster setup
